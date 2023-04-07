@@ -131,27 +131,18 @@
 "444000","Conferma dell'accordo di scioglimento dell'unione civile tra persone dello stesso sesso","Sciogl_UnCiv_004","II",""
 "445000","Mancata conferma dell'accordo di scioglimento dell'unione civile","Sciogl_UnCiv_005","II",""
 "449999","Caso d'uso di servizio (scioglimenti)","Sciogl_UnCiv_999","III",""
-"51101","Straniero o apolide, del quale il padre o la madre
-o uno dei ascendenti in linea retta di secondo grado sono stati cittadini
-per nascita: acquisto mediante
-prestazione del servizio militare per lo Stato italiano","Citt_005","",""
+"51101","Straniero o apolide, del quale il padre o la madre o uno dei ascendenti in linea retta di secondo grado sono stati cittadini per nascita: acquisto mediante prestazione del servizio militare per lo Stato italiano","Citt_005","",""
 "51103","Straniero nato in Italia che vi abbia risieduto legalmente senza interruzioni fino alla maggiore età","Citt_011","",""
 "51104","Straniero riconosciuto durante la maggiore età da cittadino italiano","Citt_013","",""
 "51105","Acquisto automatico di cittadina straniera che si sposa con cittadino italiano fino al 27 aprile 1983","Citt_017","",""
 "51106","Prestazione di giuramento a seguito di decreto (abile)","Citt_043","",""
 "51107","Prestazione di giuramento a seguito di decreto (con impedimenti)","Citt_044","",""
-"51108","Straniero o dell'apolide, del quale il padre o la madre
-o uno degli ascendenti in linea retta di secondo grado sono stati cittadini
-per nascita: acquisto assunzione di
-pubblico impiego alle dipendenze dello Stato","Citt_007","",""
+"51108","Straniero o dell'apolide, del quale il padre o la madre o uno degli ascendenti in linea retta di secondo grado sono stati cittadini per nascita: acquisto assunzione di pubblico impiego alle dipendenze dello Stato","Citt_007","",""
 "51303","Riacquisto per residenza in Italia","Citt_033","",""
 "51304","Riacquisto per abbandono dei servigi allo stato estero","Citt_036","",""
 "51999","Caso d'uso di servizio (dichiarazioni di cittadinanza)","Citt_999","",""
 "52111","Acquisto alla nascita per iure soli: figlio di genitori che non trasmettono la cittadinanza italiana","Citt_001","",""
-"52112","Straniero o apolide, del quale il padre o la madre
-o uno dei ascendenti in linea retta di secondo grado sono stati cittadini
-per nascita: acquisto mediante
-prestazione del servizio militare per lo Stato italiano","Citt_006","",""
+"52112","Straniero o apolide, del quale il padre o la madre o uno dei ascendenti in linea retta di secondo grado sono stati cittadini per nascita: acquisto mediante prestazione del servizio militare per lo Stato italiano","Citt_006","",""
 "52141","Figlio minore riconosciuto da cittadino italiano","Citt_002","",""
 "52142","Adozione di minore in casi particolari art. 44 l. 184/1983 o adozione nazionale art 25 l. 184/1983 e art. 35 comma 4","Citt_003","",""
 "52143","Figlio minore di chi ha acquista la cittadinanza italiana","Citt_004","",""
